@@ -16,7 +16,7 @@
 </div>
 
 ---
-<div>
+
 <p align="center"> Telegram bot for CC Checker with hella lotta features.
     <br> 
 </p>
