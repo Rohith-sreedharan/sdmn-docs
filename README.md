@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img src="https://Botsuniverse.github.io/favicon.svg" width='50%' alt="Project logo"/></a>
+ <img src="https://github.com/Rohith-sreedharan/sdmn-docs/blob/main/image/favicon.svg" width='20%' alt="Project logo"/></a>
 </p>
 <h3 align="center">SDMN CHECKER BOT</h3>
 
