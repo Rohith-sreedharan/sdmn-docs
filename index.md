@@ -59,8 +59,8 @@ Make Awesome Inline cc checker Bot for the whole telegram
 - Patience 
 
 ### Tools Used <a name = "deployment">
-- [Heroku](www.heroku.com)
-- [Secratory](www.telegram.me/secratorybot)
+- [Heroku] (www.heroku.com)
+- [Secratory] (www.telegram.me/secratorybot)
 - [WebPHPmyAdmin](http://www.phpmyadmin.co)
 - [SQL DB](https://freesqldatabase.com)
 - [CHANNEL IDS BOT](www.telegram.me/chnlidbot)
