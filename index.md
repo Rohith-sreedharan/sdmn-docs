@@ -91,5 +91,5 @@ If you're feeling generous and want to support this project, you can donate
 </a> - Donate through Bitcoin
 
 ## Copyright
-(C) Rohith SV
+(C) Rohith SV AKA ROHITHADITYA
 All Rights Reserved
